@@ -1,0 +1,106 @@
+Scope of Repair,Material Part,Material Cost,Install Labor Estimated Hours,Cost of Labor Per Hour
+Replace windshield,Windshield Glass,$200,2,$45
+Engine overhaul,Engine Gasket Set,$350,15,$50
+Transmission repair,Transmission,$600,10,$55
+Brake replacement,Brake Pads,$90,1.5,$40
+Paint job,Paint Supplies,$150,8,$35
+Tire replacement,Tires (set of 4),$400,1,$30
+Battery replacement,Car Battery,$120,0.5,$25
+Replace headlight,Headlight Assembly,$250,1,$30
+Oil change,Engine Oil,$30,0.5,$20
+Replace spark plugs,Spark Plugs,$40,1,$25
+Radiator repair,Radiator,$300,3,$45
+Replace alternator,Alternator,$250,2,$40
+Suspension overhaul,Shock Absorbers,$450,3.5,$50
+Exhaust system repair,Exhaust Pipe,$180,2.5,$45
+Replace timing belt,Timing Belt,$200,4,$50
+Air conditioning repair,AC Compressor,$475,3,$55
+Wheel alignment,Alignment Tools,$80,1.5,$30
+Replace air filter,Air Filter,$25,0.5,$20
+Replace fuel pump,Fuel Pump,$300,2,$45
+Clutch replacement,Clutch Kit,$500,5,$55
+Replace brake rotors,Brake Rotors,$300,2,$40
+Replace windshield wipers,Windshield Wipers,$20,0.25,$15
+Replace cabin filter,Cabin Air Filter,$50,0.5,$20
+Replace tail light,Tail Light Assembly,$150,1,$30
+Replace shocks,Shocks,$250,2.5,$45
+Replace struts,Struts,$300,3,$50
+Replace thermostat,Thermostat,$70,1,$25
+Replace water pump,Water Pump,$220,2,$40
+Replace muffler,Muffler,$150,1.5,$35
+Replace power steering pump,Steering Pump,$350,2,$45
+Replace starter,Starter Motor,$250,1.5,$40
+Replace oxygen sensor,Oxygen Sensor,$200,1,$35
+Replace coolant,Coolant,$50,0.5,$20
+Replace transmission fluid,Transmission Fluid,$100,1,$30
+Replace differential fluid,Differential Fluid,$150,1.5,$35
+Replace transfer case fluid,Transfer Case Fluid,$120,1.5,$35
+Replace brake fluid,Brake Fluid,$40,0.5,$20
+Replace power steering fluid,Steering Fluid,$30,0.5,$20
+Replace engine mounts,Engine Mounts,$350,3,$50
+Replace CV joints,CV Joints,$275,3,$45
+Replace drive belt,Drive Belt,$100,1,$30
+Replace radiator hose,Radiator Hose,$80,1,$25
+Replace heater core,Heater Core,$400,4,$55
+Replace wheel bearing,Wheel Bearing,$200,2,$40
+Replace coil springs,Coil Springs,$250,3,$45
+Replace tie rod ends,Tie Rod Ends,$180,2,$40
+Replace sway bar links,Sway Bar Links,$150,1.5,$35
+Replace control arms,Control Arms,$350,3,$50
+Replace bushings,Bushings,$90,2,$35
+Replace ball joints,Ball Joints,$210,2.5,$45
+Replace fuel filter,Fuel Filter,$60,0.5,$20
+Replace engine thermostat,Engine Thermostat,$65,1,$25
+Replace head gasket,Head Gasket,$500,6,$55
+Replace piston rings,Piston Rings,$600,8,$60
+Replace crankshaft,Crankshaft,$800,10,$65
+Replace camshaft,Camshaft,$500,5,$60
+Replace valve cover gasket,Valve Cover Gasket,$80,1.5,$35
+Replace oil pan gasket,Oil Pan Gasket,$120,2,$40
+Replace intake manifold gasket,Intake Manifold Gasket,$150,2,$40
+Replace exhaust manifold gasket,Exhaust Manifold Gasket,$130,2,$40
+Replace differential gasket,Differential Gasket,$140,3,$45
+Replace transmission gasket,Transmission Gasket,$160,3,$50
+Replace axle seals,Axle Seals,$100,2,$40
+Replace main seal,Main Seal,$190,3,$50
+Replace wheel cylinders,Wheel Cylinders,$150,2,$40
+Replace master cylinder,Master Cylinder,$200,2,$45
+Replace brake booster,Brake Booster,$250,2.5,$45
+Replace ABS sensors,ABS Sensors,$220,2,$40
+Replace fuel injectors,Fuel Injectors,$400,3,$50
+Replace ignition coils,Ignition Coils,$230,2,$45
+Replace mass airflow sensor,Mass Airflow Sensor,$180,1,$35
+Replace EGR valve,EGR Valve,$240,2,$45
+Replace PCV valve,PCV Valve,$50,0.5,$20
+Replace catalytic converter,Catalytic Converter,$850,3,$55
+Replace turbocharger,Turbocharger,$1200,5,$65
+Replace supercharger,Supercharger,$1500,6,$70
+Replace intercooler,Intercooler,$300,2,$45
+Replace radiator fan,Radiator Fan,$220,1.5,$35
+Replace blower motor,Blower Motor,$180,1,$30
+Replace AC condenser,AC Condenser,$350,2.5,$50
+Replace evaporator,Evaporator,$400,3.5,$55
+Replace heater valve,Heater Valve,$140,1.5,$35
+Replace blower motor resistor,Blower Motor Resistor,$80,0.5,$20
+Replace AC relay,AC Relay,$70,0.5,$20
+Replace AC switch,AC Switch,$65,0.5,$20
+Replace AC compressor clutch,AC Compressor Clutch,$250,2,$45
+Replace window regulator,Window Regulator,$150,1.5,$35
+Replace door lock actuator,Door Lock Actuator,$170,1,$30
+Replace ignition switch,Ignition Switch,$120,1,$30
+Replace steering rack,Steering Rack,$500,3,$50
+Replace power window switch,Power Window Switch,$85,0.5,$20
+Replace sunroof motor,Sunroof Motor,$300,2,$45
+Replace antenna,Antenna,$100,1,$30
+Replace horn,Horn,$90,0.5,$20
+Replace head unit,Head Unit,$250,1,$30
+Replace speakers,Speakers,$200,1.5,$35
+Replace amplifier,Amplifier,$300,1.5,$40
+Replace backup camera,Backup Camera,$180,1,$30
+Replace parking sensors,Parking Sensors,$220,1.5,$35
+Replace windshield camera,Windshield Camera,$250,1.5,$40
+Replace lane departure sensor,Lane Departure Sensor,$300,2,$45
+Replace adaptive cruise control sensor,Adaptive Cruise Control Sensor,$350,2.5,$50
+Replace tire pressure monitor,Tire Pressure Monitor,$180,1,$30
+Replace vehicle tracker,Vehicle Tracker,$200,1.5,$35
+Replace dashboard camera,Dash Camera,$150,1,$30
